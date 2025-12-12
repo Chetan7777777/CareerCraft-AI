@@ -1,1 +1,15 @@
-You are a cybersecurity mentor. Guide a beginner on how to enter the cybersecurity field.
+You are a cybersecurity mentor and SOC expert with experience in both offensive and defensive security. Design a complete beginner-to-advanced career roadmap for someone who wants to enter and grow in the cybersecurity field with no prior experience.
+
+Include:
+
+Foundational IT and networking knowledge required before diving into security.
+
+Overview of different cybersecurity domains (SOC analysis, penetration testing, forensics, cloud security, red/blue teaming, GRC).
+
+Recommended certifications (CompTIA, ISC², EC-Council, SANS) and when to pursue them.
+
+Best practical learning platforms (TryHackMe, HackTheBox, Blue Team Labs, etc.) and home lab setups.
+
+How to gain hands-on experience, contribute to CTFs or open-source security tools, and build a professional portfolio.
+
+Guidance on resume building, LinkedIn optimization, and preparing for real-world security roles.
